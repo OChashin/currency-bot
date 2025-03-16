@@ -1,2 +1,2 @@
 # currency-bot
-CurrencyBot — это умный Telegram-бот, который помогает быстро конвертировать валюты, получать актуальные курсы и строить графики изменения курса за последние 10 дней.
+CurrencyBot is a smart Telegram bot that helps you quickly convert currencies, get current rates and plot rate changes over the last 10 days.
